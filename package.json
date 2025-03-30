@@ -1,0 +1,21 @@
+{
+  "name": "js-fundamentals-ajax-tasks",
+  "jest": {
+    "type": "module"
+  },
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "puppeteer": "^21.4.1"
+  }
+}
